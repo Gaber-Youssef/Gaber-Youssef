@@ -46,11 +46,6 @@ I help companies turn AI ideas into systems their teams can use. I work across s
 - **Expert-Vetted on [Upwork](https://www.upwork.com/freelancers/gyoussef)**.
 - **Founder of [SixVectors](https://sixvectors.ai/)**.
 
-## A Few Things I've Built
-
-- **[Personal website](https://github.com/Gaber-Youssef/personal-website)** — my consulting website and technical writing, built with Astro and MDX.
-- **[ProDuctive](https://github.com/Gaber-Youssef/ProDuctive)** — a small macOS productivity tool.
-
 ## Work With Me
 
 I work with teams as a **fractional Head of AI**, deliver **AI products from architecture to handover**, and **audit existing systems** for performance, cost, and scalability.
