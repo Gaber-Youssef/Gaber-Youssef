@@ -1,54 +1,59 @@
-<h1 align="center">Gaber Youssef</h1>
+# Hi, I'm Gaber 👋
 
-<p align="center"><strong>Principal AI Architect · Fractional Head of AI</strong></p>
+**Principal AI Architect · Fractional Head of AI · Founder of [SixVectors](https://sixvectors.ai/)**
 
-<p align="center">I help companies turn AI ideas into systems their teams can use.<br>Strategy, architecture, and hands-on engineering through production.</p>
+I help companies turn AI ideas into systems their teams can use. I work across strategy, architecture, and hands-on engineering, with a focus on AI agents, computer vision, and production systems.
 
-<p align="center">
-  <a href="https://gaberyoussef.dev"><strong>Explore my work</strong></a> ·
-  <a href="mailto:contact@gaberyoussef.dev">Discuss a project</a> ·
-  <a href="https://www.linkedin.com/in/gaberyoussef/">LinkedIn</a>
-</p>
+**[gaberyoussef.dev](https://gaberyoussef.dev)** · **[Let's discuss your project](mailto:contact@gaberyoussef.dev)**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-181717?style=flat-square)
 
-### What I bring to your team
+## GitHub Activity
 
-I work across **AI agents, computer vision, and production AI infrastructure**. I can help you decide what to build, design the system, and write the code that gets it into users' hands.
+[![GitHub contribution activity for Gaber Youssef](https://gitlyy.vercel.app/api/contribution?username=Gaber-Youssef&hide_border=true)](https://github.com/Gaber-Youssef#js-contribution-activity)
 
-- **AI agents:** multi-agent workflows, tool integrations through MCP, retrieval, and guardrails.
-- **Computer vision:** object tracking, pose estimation, and video analytics that turn footage into useful information.
-- **Production engineering:** persistent memory, telemetry, and the infrastructure to operate AI systems.
+[View current contribution activity →](https://github.com/Gaber-Youssef#js-contribution-activity)
 
-MSc Artificial Intelligence, University of Bath · Expert-Vetted on Upwork · Founder of [SixVectors](https://sixvectors.ai/)
+## What I'm Doing
 
-### Tools I work with
+- **Building AI agents** — coordinating specialist agents, tools, retrieval, and guardrails into workflows people can use.
+- **Working with computer vision** — turning video into useful information through object tracking, pose estimation, and analytics.
+- **Writing about AI engineering** — sharing notes on agent reliability and production systems at [gaberyoussef.dev](https://gaberyoussef.dev/blog/).
+- **Helping teams deliver** — working with companies on AI strategy, implementation, and improving existing systems.
 
-Python · LangGraph · PyTorch · OpenCV · PostgreSQL · MCP
+## Latest Blog Posts
 
-### Writing
+- [Building Adversarially Robust Agentic Systems in 2026: Lessons from TraderBench, Nemotron 3 Super, and OpenClaw](https://gaberyoussef.dev/blog/building-adversarially-robust-agentic-systems-in-2026-lessons-from-traderbench-nemotron-3-super-and-openclaw)
 
-I share notes from building AI systems on [gaberyoussef.dev](https://gaberyoussef.dev/blog/).
+[More on my blog →](https://gaberyoussef.dev/blog/)
 
-**[Building Adversarially Robust Agentic Systems in 2026: Lessons from TraderBench, Nemotron 3 Super, and OpenClaw](https://gaberyoussef.dev/blog/building-adversarially-robust-agentic-systems-in-2026-lessons-from-traderbench-nemotron-3-super-and-openclaw)**  
-A practical look at agent evaluation, reasoning-model choices, and boundaries for tool execution.
+## Connect
 
-### On GitHub
+[![Website](https://img.shields.io/badge/gaberyoussef.dev-0F766E?style=flat-square)](https://gaberyoussef.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/gaberyoussef/)
+[![X](https://img.shields.io/badge/Gaber__Youssef-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Gaber__Youssef)
+[![Upwork](https://img.shields.io/badge/Upwork-108A00?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/gyoussef)
+[![Email](https://img.shields.io/badge/Discuss_a_project-181717?style=flat-square)](mailto:contact@gaberyoussef.dev)
 
-- **[Personal website](https://github.com/Gaber-Youssef/personal-website)** — my consulting website and technical writing, built with Astro and MDX. [Visit gaberyoussef.dev →](https://gaberyoussef.dev)
+## Background
+
+- **MSc Artificial Intelligence**, University of Bath.
+- **Expert-Vetted on [Upwork](https://www.upwork.com/freelancers/gyoussef)**.
+- **Founder of [SixVectors](https://sixvectors.ai/)**.
+
+## A Few Things I've Built
+
+- **[Personal website](https://github.com/Gaber-Youssef/personal-website)** — my consulting website and technical writing, built with Astro and MDX.
 - **[ProDuctive](https://github.com/Gaber-Youssef/ProDuctive)** — a small macOS productivity tool.
 
-[Explore my repositories](https://github.com/Gaber-Youssef?tab=repositories) · [See my contribution activity](https://github.com/Gaber-Youssef#js-contribution-activity)
+## Work With Me
 
-### Work with me
-
-**Need AI leadership?** Bring me in as your fractional Head of AI to shape the roadmap and guide delivery.
-
-**Have a product to build?** Work with me from architecture through implementation and handover.
-
-**Have an AI system that needs improving?** Start with an audit of its performance, cost, and scalability.
+I work with teams as a **fractional Head of AI**, deliver **AI products from architecture to handover**, and **audit existing systems** for performance, cost, and scalability.
 
 **[Tell me what you're building →](mailto:contact@gaberyoussef.dev)**  
-Include your use case, where you are today, and what you need to achieve.
-
-[gaberyoussef.dev](https://gaberyoussef.dev) · [LinkedIn](https://www.linkedin.com/in/gaberyoussef/) · [Upwork](https://www.upwork.com/freelancers/gyoussef)
+Share your use case, where you are today, and what you need to achieve.
