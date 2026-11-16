@@ -4,7 +4,7 @@
 
 I take AI prototypes and scattered automations and turn them into reliable systems that teams can run, measure and improve. 8 years in ML and AI, senior and lead roles since 2021, and still hands-on: I own the architecture and write a large share of the code.
 
-**[gaberyoussef.dev](https://gaberyoussef.dev)** · **[LinkedIn](https://www.linkedin.com/in/gaberyoussef/)** · **[Discuss a project](mailto:contact@gaberyoussef.dev)**
+**[gaberyoussef.dev](https://gaberyoussef.dev)** · **[LinkedIn](https://www.linkedin.com/in/gaberyoussef/)** · **[Discuss a project](mailto:me@gaberyoussef.dev)**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
@@ -61,4 +61,4 @@ Open to senior full-time roles and to contract work through SixVectors: producti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/gaberyoussef/)
 [![X](https://img.shields.io/badge/Gaber__Youssef-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Gaber__Youssef)
 [![Upwork](https://img.shields.io/badge/Upwork-108A00?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/gyoussef)
-[![Email](https://img.shields.io/badge/Discuss_a_project-181717?style=flat-square)](mailto:contact@gaberyoussef.dev)
+[![Email](https://img.shields.io/badge/Discuss_a_project-181717?style=flat-square)](mailto:me@gaberyoussef.dev)
